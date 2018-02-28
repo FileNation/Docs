@@ -1,6 +1,7 @@
 # docs
-FileNation docs
+### FileNation docs
 
+# FileNation Manifesto
 We believe there is a better internet thanks to distributed technologies, and we want to make those available for everyone.
 
 As a starting point we want to empower people to send files without any censorship. That’s why we built FileNation.
